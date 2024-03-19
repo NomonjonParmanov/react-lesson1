@@ -1,0 +1,26 @@
+.title2 {
+  color: #211f54;
+  line-height: 34.01px;
+  font-size: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.service {
+  padding-top: 150px;
+}
+.text2 {
+  color: #6e7191;
+  line-height: 30.01px;
+  text-align: center;
+  font-size: 21px;
+  width: 302px;
+  margin: 0 auto;
+}
+.container {
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}

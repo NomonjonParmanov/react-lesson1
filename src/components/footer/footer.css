@@ -1,0 +1,62 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+  border-top: 1px solid gray;
+}
+
+.footer__card h1 {
+  color: #211f54;
+  line-height: 36.01px;
+  font-size: 28px;
+  width: 300px;
+}
+
+.footer__card p {
+  color: #6e7191;
+  line-height: 30.01px;
+  font-size: 18px;
+  width: 304px;
+  padding-top: 6px;
+}
+
+.footer__card h3 {
+  color: #211f54;
+  line-height: 20px;
+  font-size: 18px;
+  padding-top: 5px;
+}
+
+.phone {
+  color: #0075ff !important;
+  line-height: 36.01px !important;
+  font-size: 28px !important;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.footer__second {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 150px;
+}
+
+.link {
+  display: flex;
+  gap: 12px;
+  margin-right: 30px;
+}
+
+.link p {
+  color: #6e7191;
+  line-height: 30.01px;
+  font-size: 18px;
+}
+
+.link a {
+  display: block;
+  color: #0075ff;
+  line-height: 30.01px;
+  font-size: 18px;
+}
